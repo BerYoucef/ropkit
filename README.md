@@ -1,4 +1,4 @@
-# ropkit (v1.0.0)
+# ropkit (v1.0)
 
 A modular, lightweight Command-Line Interface (CLI) tool designed for static ROP gadget hunting within x86_64 ELF binaries, featuring automatic dynamic library (`libc`) resolving and fallback analysis.
 
